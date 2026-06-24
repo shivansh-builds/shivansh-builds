@@ -1,6 +1,6 @@
 #  About Me:
 
-Hi, I'm Shivansh 👋<br><br>🎓 B.Tech in Computer Engineering (2023–2027)  <br>📍 Government Engineering College, Palanpur,Gujarat  <br><br>I'm an aspiring Data Analyst & Business Analyst with a growing interest in AI and data-driven decision making. I enjoy turning raw data into meaningful insights and building projects that solve real-world problems.<br><br>🔍 Currently exploring:<br>- Data Analysis & Visualization<br>- Business Intelligence<br>- SQL, Excel, Python<br>- AI & Machine Learning fundamentals<br><br>🚀 I'm actively looking for opportunities, internships, and collaborations where I can apply my skills and learn from real-world challenges.<br><br>📫 Let's connect and build something impactful!
+Hi, I'm Shivansh 👋<br> <br>🎓 B.Tech in Computer Engineering (2023–2027)  <br>📍 Government Engineering College, Palanpur,Gujarat  <br><br>I'm an aspiring Data Analyst & Business Analyst with a growing interest in AI and data-driven decision making. I enjoy turning raw data into meaningful insights and building projects that solve real-world problems.<br><br>🔍 Currently exploring:<br>- Data Analysis & Visualization<br>- Business Intelligence<br>- SQL, Excel, Python<br>- AI & Machine Learning fundamentals<br><br>🚀 I'm actively looking for opportunities, internships, and collaborations where I can apply my skills and learn from real-world challenges.<br><br>📫 Let's connect and build something impactful!
 
 
 ## 🌐 Socials:
