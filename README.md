@@ -14,9 +14,9 @@
 
 ## About Me
 
-🎓 B.E. Computer Engineering student (2023–2027) at Government Engineering College, Palanpur, Gujarat.
+I'm a pre-final-year Computer Engineering student interested in building AI-powered applications, developing machine learning solutions, and exploring intelligent automation. I enjoy working with Python, data, and AI technologies to solve practical problems and turn ideas into useful applications.
 
-Interested in building AI-powered applications, developing machine learning solutions, and using Python and data to solve practical problems.
+I'm particularly interested in combining Machine Learning, Generative AI, LLMs, and Data Science to develop intelligent solutions for real-world use cases.
 
 ## Education
 
