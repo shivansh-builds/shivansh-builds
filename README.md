@@ -1,7 +1,21 @@
+ <div align="center">
 
-# Hi, I'm Shivansh Srivastava 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Shivansh%20Srivastava&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=60&descSize=16" width="100%" />
 
-### Aspiring AI/ML Developer | Machine Learning | Generative AI | Data Science
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Developer;Exploring+Generative+AI+%26+LLMs;Building+Intelligent+Python+Applications;Turning+Data+Into+Meaningful+Insights" alt="Typing SVG" />
+</a>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-00C4CC?style=for-the-badge)](https://portfolio-ten-pi-ut940b96sp.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshsrivastava011@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivansh-builds)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 🎓 **B.E. in Computer Engineering (2023–2027)**  
 📍 Government Engineering College, Palanpur, Gujarat
@@ -9,6 +23,8 @@
 I'm a pre-final-year Computer Engineering student interested in building AI-powered applications, developing machine learning solutions, and exploring intelligent automation. I enjoy working with Python, data, and AI technologies to solve practical problems and turn ideas into useful applications.
 
 I'm particularly interested in combining **Machine Learning, Generative AI, LLMs, and Data Science** to develop intelligent solutions for real-world use cases.
+
+---
 
 ## 🔍 Currently Exploring
 
@@ -39,14 +55,6 @@ I'm particularly interested in combining **Machine Learning, Generative AI, LLMs
 ## 🤝 Open To
 
 AI/ML Developer Internships, Machine Learning Opportunities, Data Science Internships, and collaborative projects where I can apply my technical skills and learn from real-world challenges.
-
----
-
-## 🌐 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshsrivastava011@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivansh-builds)
 
 ---
 
@@ -110,7 +118,7 @@ AI/ML Developer Internships, Machine Learning Opportunities, Data Science Intern
 
 ## 📂 Featured Projects
 
-### 1. AI-Powered Resume Analyzer and Career Recommendation System
+### 01. AI-Powered Resume Analyzer and Career Recommendation System
 
 **Python | Machine Learning | NLP | Generative AI | Gemini API | Flask | SQLite**
 
@@ -120,7 +128,7 @@ AI/ML Developer Internships, Machine Learning Opportunities, Data Science Intern
 - Developing skill gap analysis to identify missing technical competencies and suggest personalized learning roadmaps.
 - Integrating Google Gemini API and LLMs to generate ATS-focused resume improvements, personalized career guidance, and AI-driven recommendations.
 
-### 2. Netflix Data Analysis — End-to-End Analytics
+### 02. Netflix Data Analysis — End-to-End Analytics
 
 **Python | Pandas | SQL | SQLite | Plotly | Streamlit**
 
@@ -128,5 +136,26 @@ AI/ML Developer Internships, Machine Learning Opportunities, Data Science Intern
 - Wrote 32 analytical SQL queries to explore content distribution, genres, countries, and yearly trends.
 - Developed an interactive Streamlit dashboard featuring KPI cards, filters, statistical summaries, and 28 visualizations to present meaningful insights.
 
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=shivansh-builds&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://streak-stats.demolab.com/?user=shivansh-builds&theme=tokyonight&hide_border=true" />
+
+<img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shivansh-builds&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer&animation=fadeIn" width="100%" />
 
 ⭐ *Interested in AI, Machine Learning, Data Science, and building technology that solves real-world problems.*
+
+</div>
