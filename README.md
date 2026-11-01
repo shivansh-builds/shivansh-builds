@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Shivansh%20Srivastava&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Shivansh%20Srivastava&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=60&descSize=16" width="100%" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Developer;Exploring+Generative+AI+%26+LLMs;Building+Intelligent+Python+Applications;Turning+Data+Into+Meaningful+Insights" alt="Typing SVG" />
-</a>
+**Aspiring AI/ML Developer | Machine Learning | Generative AI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ten-pi-ut940b96sp.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshsrivastava011@gmail.com)
@@ -16,16 +14,14 @@
 
 ## About Me
 
-I'm a pre-final-year Computer Engineering student interested in building AI-powered applications, developing machine learning solutions, and exploring intelligent automation. I enjoy working with Python, data, and AI technologies to solve practical problems and turn ideas into useful applications.
+🎓 B.E. Computer Engineering student (2023–2027) at Government Engineering College, Palanpur, Gujarat.
 
-I'm particularly interested in combining **Machine Learning, Generative AI, LLMs, and Data Science** to develop intelligent solutions for real-world use cases.
-
----
+Interested in building AI-powered applications, developing machine learning solutions, and using Python and data to solve practical problems.
 
 ## Education
 
 **Government Engineering College, Palanpur, Gujarat**  
-Bachelor of Engineering in Computer Engineering | Jul 2024 – May 2027
+B.E. in Computer Engineering | Jul 2024 – May 2027
 
 **Government Polytechnic, Gandhinagar, Gujarat**  
 Diploma in Computer Engineering | Jun 2021 – Jun 2024
@@ -36,37 +32,36 @@ Diploma in Computer Engineering | Jun 2021 – Jun 2024
 
 - Machine Learning and Model Development
 - Generative AI, LLMs, and Prompt Engineering
-- AI APIs and Intelligent Automation
-- Natural Language Processing (NLP)
-- Data Analysis, Visualization, and Predictive Analytics
+- AI APIs and Automation
+- Natural Language Processing
+- Data Analysis and Predictive Analytics
 - Retrieval-Augmented Generation (RAG)
 
 ## What I'm Working On
 
-- Building AI-powered applications using Python and Generative AI.
-- Exploring ML algorithms, data preprocessing, feature engineering, and model evaluation.
-- Developing LLM-based applications using Gemini API and AI frameworks.
-- Analyzing datasets and creating interactive dashboards to extract meaningful insights.
-- Exploring intelligent automation and practical AI/ML applications.
+- Building AI applications using Python and Generative AI.
+- Exploring ML algorithms and model evaluation.
+- Developing LLM applications using Gemini API.
+- Analyzing datasets and creating interactive dashboards.
 
 ## Areas of Interest
 
 - Artificial Intelligence & Machine Learning
-- Generative AI & Large Language Models
-- Applied Data Science
+- Generative AI & LLMs
+- Data Science
 - Natural Language Processing
-- AI-Powered Application Development
-- Data Analytics & Business Intelligence
+- AI Application Development
+- Data Analytics
 
 ## Open To
 
-AI/ML Developer Internships, Machine Learning Opportunities, Data Science Internships, and collaborative projects where I can apply my technical skills and learn from real-world challenges.
+AI/ML internships, Machine Learning opportunities, Data Science internships, and collaborative projects.
 
 ---
 
 ## Tech Stack
 
-### Programming Languages & Data Processing
+### Programming & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -81,47 +76,40 @@ AI/ML Developer Internships, Machine Learning Opportunities, Data Science Intern
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### Generative AI, LLMs & NLP
+### Generative AI & LLMs
 
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 
-### Backend & Application Development
+### Frameworks & Development
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Databases
+### Databases & Analytics
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Business Intelligence & Visualization
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Developer Tools & AI Assistants
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
@@ -131,19 +119,19 @@ AI/ML Developer Internships, Machine Learning Opportunities, Data Science Intern
 
 **Python | Machine Learning | NLP | Generative AI | Gemini API | Flask | SQLite**
 
-- Developing an AI-powered web application to analyze PDF/DOCX resumes, extract candidate information, and identify technical skills, education, projects, and experience.
-- Implementing NLP-based text processing and skill extraction to evaluate resume content and generate structured candidate profiles.
-- Building a machine learning-based job recommendation engine to match candidate qualifications with job requirements and recommend suitable career opportunities.
-- Developing skill gap analysis to identify missing technical competencies and suggest personalized learning roadmaps.
-- Integrating Google Gemini API and LLMs to generate ATS-focused resume improvements, personalized career guidance, and AI-driven recommendations.
+- Developing a web application to analyze PDF/DOCX resumes and extract candidate information.
+- Implementing NLP-based skill extraction and candidate profiling.
+- Building an ML-based job recommendation engine to match candidate profiles with job requirements.
+- Developing skill gap analysis and personalized learning roadmaps.
+- Integrating Gemini API to generate ATS-focused resume improvements and career recommendations.
 
 ### 02. Netflix Data Analysis — End-to-End Analytics
 
 **Python | Pandas | SQL | SQLite | Plotly | Streamlit**
 
-- Built a data analytics pipeline to clean and analyze 8K+ Netflix titles using Python and Pandas, improving data consistency for downstream analysis.
-- Wrote 32 analytical SQL queries to explore content distribution, genres, countries, and yearly trends.
-- Developed an interactive Streamlit dashboard featuring KPI cards, filters, statistical summaries, and 28 visualizations to present meaningful insights.
+- Built a pipeline to clean and analyze 8K+ Netflix titles using Python and Pandas.
+- Wrote 32 SQL queries to explore content, genres, countries, and yearly trends.
+- Developed a Streamlit dashboard with KPI cards, filters, and 28 visualizations.
 
 ---
 
@@ -163,8 +151,8 @@ AI/ML Developer Internships, Machine Learning Opportunities, Data Science Intern
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%" />
 
-⭐ *Interested in AI, Machine Learning, Data Science, and building technology that solves real-world problems.*
+*Building with AI. Learning through experimentation.*
 
 </div>
