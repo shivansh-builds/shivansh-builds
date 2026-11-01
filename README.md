@@ -143,7 +143,7 @@ AI/ML internships, Machine Learning opportunities, Data Science internships, and
 
 <img height="165" src="https://streak-stats.demolab.com/?user=shivansh-builds&theme=tokyonight&hide_border=true" />
 
-<img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shivansh-builds&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
 
 </div>
 
