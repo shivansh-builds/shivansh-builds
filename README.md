@@ -128,16 +128,5 @@ AI/ML Developer Internships, Machine Learning Opportunities, Data Science Intern
 - Wrote 32 analytical SQL queries to explore content distribution, genres, countries, and yearly trends.
 - Developed an interactive Streamlit dashboard featuring KPI cards, filters, statistical summaries, and 28 visualizations to present meaningful insights.
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=shivansh-builds&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=shivansh-builds&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivansh-builds&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 ⭐ *Interested in AI, Machine Learning, Data Science, and building technology that solves real-world problems.*
